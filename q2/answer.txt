@@ -1,0 +1,3 @@
+The colour palette on the website seems way too basic. It's practically a bootstrap palette set on easy mode. There is no real contrast of colours, the same shade of blue reigns throughout every page with a weird one-time orangy button. 
+I propose a new and bold palette, one which conveys a bold theme and message. A palette that reflects the modern and advanced solution being offered by picovoice. Here are the colours: https://coolors.co/palette/ff6d00-ff7900-ff8500-ff9100-ff9e00-240046-3c096c-5a189a-7b2cbf-9d4edd
+These colours are bold, vibrant and will definitely help convey the image and voice of this awesome company.
